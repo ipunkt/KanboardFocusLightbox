@@ -1,3 +1,3 @@
 # KanboardFocusLightbox
 
-Focus on Lightbox when the site is loaded
+This plugin offers the possibility to focus on Lightbox when the site is loaded.
